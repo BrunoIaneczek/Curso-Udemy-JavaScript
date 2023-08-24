@@ -1,0 +1,7 @@
+no index podemos direcionar o arquivo js abaixo da tag title
+utilizando o comando "defer"
+deste modo <script src="index.js" defer></script>
+
+Para executar arquivo no terminal utilizamos o comando "node"
+e o nome do arquivo no caso index.js, podemos acessalo navegando
+na pasta com os comandos cd, ls etc
